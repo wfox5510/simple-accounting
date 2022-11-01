@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "086e44b92703570c19c4",
-    "url": "/simple-accounting/static/css/main.b079521b.chunk.css"
+    "revision": "b5e68c44b83b02f4e2f4",
+    "url": "/simple-accounting/static/css/main.9f119cc8.chunk.css"
   },
   {
-    "revision": "086e44b92703570c19c4",
-    "url": "/simple-accounting/static/js/main.086e44b9.chunk.js"
+    "revision": "b5e68c44b83b02f4e2f4",
+    "url": "/simple-accounting/static/js/main.b5e68c44.chunk.js"
   },
   {
     "revision": "206e060bd7d3afd2158d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/simple-accounting/static/js/runtime~main.390cfd92.js"
   },
   {
-    "revision": "fc90fd85176556a85a7fafd51ecb1184",
+    "revision": "2358347f7e1ae122e8a3f6067cfbd61c",
     "url": "/simple-accounting/index.html"
   }
 ];
