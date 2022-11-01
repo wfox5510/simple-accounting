@@ -40,7 +40,7 @@ function BuildChart({ profitYearData }) {
         }
     }
     return (
-        <div>
+        <div className='chartContainer'>
             <button className="openChartBTN" onClick={() => chartBTN()}>圖表</button>
             <div className={chartState}>
                 {profitData}
