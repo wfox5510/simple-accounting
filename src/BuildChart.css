@@ -1,33 +1,31 @@
 @keyframes chartIn {
     from {
         position: absolute;
-        left: -300%;;
+        top:50%;
+        left: -100%;
     }
 
     to {
         position: absolute;
-        left: 0%;
+        top:50%;
+        left: 50%;
     }
 }
 
 @keyframes chartOut {
     from {
         position: absolute;
-        left: 0%;
+        top:50%;
+        left: 50%;
     }
 
     to {
         position: absolute;
-        left: -300%;
+        top:50%;
+        left: -100%;
     }
 }
-.chartContainer{
-    position: relative;
-    top:-6%;
-    margin: 0px auto;
-    height: 600px;
-    width: 1000px;
-}
+
 .openChartBTN {
     height: 56px;
     width: 100px;
@@ -52,8 +50,9 @@
     animation-name: chartIn;
     animation-duration: 2s;
     position: absolute;
-    left:0%;
-    top:0%;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     padding-left: 40px;
     padding-bottom: 20px;
     height: 600px;
@@ -77,8 +76,9 @@
 }
 .chartDel {
     position: absolute;
-    left: -400%;
+    left: -100%;
     top:0%;
+    transform: translate(-50%, -50%);
     height: 600px;
     width: 1000px;
     animation-name: chartOut;
