@@ -1,15 +1,15 @@
 {
-  "main.css": "/simple-accounting/static/css/main.9f119cc8.chunk.css",
-  "main.js": "/simple-accounting/static/js/main.b5e68c44.chunk.js",
-  "main.js.map": "/simple-accounting/static/js/main.b5e68c44.chunk.js.map",
+  "main.css": "/simple-accounting/static/css/main.cbecbdc1.chunk.css",
+  "main.js": "/simple-accounting/static/js/main.649f12e5.chunk.js",
+  "main.js.map": "/simple-accounting/static/js/main.649f12e5.chunk.js.map",
   "static/js/1.206e060b.chunk.js": "/simple-accounting/static/js/1.206e060b.chunk.js",
   "static/js/1.206e060b.chunk.js.map": "/simple-accounting/static/js/1.206e060b.chunk.js.map",
   "static/js/2.f1f1eecf.chunk.js": "/simple-accounting/static/js/2.f1f1eecf.chunk.js",
   "static/js/2.f1f1eecf.chunk.js.map": "/simple-accounting/static/js/2.f1f1eecf.chunk.js.map",
   "runtime~main.js": "/simple-accounting/static/js/runtime~main.390cfd92.js",
   "runtime~main.js.map": "/simple-accounting/static/js/runtime~main.390cfd92.js.map",
-  "static/css/main.9f119cc8.chunk.css.map": "/simple-accounting/static/css/main.9f119cc8.chunk.css.map",
+  "static/css/main.cbecbdc1.chunk.css.map": "/simple-accounting/static/css/main.cbecbdc1.chunk.css.map",
   "index.html": "/simple-accounting/index.html",
-  "precache-manifest.9f45605ed49ee1005d34388cfea79c8c.js": "/simple-accounting/precache-manifest.9f45605ed49ee1005d34388cfea79c8c.js",
+  "precache-manifest.de60d015701a1aa2a9d5177424343673.js": "/simple-accounting/precache-manifest.de60d015701a1aa2a9d5177424343673.js",
   "service-worker.js": "/simple-accounting/service-worker.js"
 }
